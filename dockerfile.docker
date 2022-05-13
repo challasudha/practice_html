@@ -1,4 +1,0 @@
-From openjdk:8
-EXPOSE 2222
-ADD traget/desktop-text.html
-ENTRYPOINT ["html","-html", "/Desktop-text.html"]
